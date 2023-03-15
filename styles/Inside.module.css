@@ -1,0 +1,21 @@
+.buttons{
+  margin: 0 auto;
+  width: fit-content;
+  background: #f0f0f0;
+  font-size: 50px;
+  border-radius: 100%;
+  cursor: pointer;
+}
+
+.test {
+  display: none;
+}
+
+.active {
+  display: block;
+}
+
+.button {
+  display: inline-block;
+}
+

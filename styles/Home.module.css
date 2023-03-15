@@ -1,0 +1,15 @@
+.title{
+  margin: 0 auto;
+  font-size: 100px;
+  width: fit-content;
+}
+
+.links{
+  display: block;
+  margin: 50px auto;
+  width: fit-content;
+  height: 100px;
+  background: #f0f0f0;
+  font-size: 100px;
+}
+
